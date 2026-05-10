@@ -1,0 +1,17 @@
+baseURL = "https://edlippjr.com/"
+locale = "en-us"
+title = "Ed Lipp Jr"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  mainSections = ["posts"]
+  author = "Ed Lipp Jr"
+  description = "Personal blog"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[params.homeInfoParams]
+  Title = "Hey, I'm Ed"
+  Content = "Welcome to my corner of the internet."
