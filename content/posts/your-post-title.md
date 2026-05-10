@@ -1,0 +1,13 @@
++++
+date = '2026-05-09T21:42:14-04:00'
+draft = false
+title = 'I should have never left ya'll'
++++
+
+It's been so long since I was able to blog reliably here at edlippjr.com.  I used to -love- posting regular entries with what was going on, pics, etc.  The People Online section was always so fun to keep everyone in touch.  The picture albums were so fun to share at such an early time on the Internet.
+
+For all the early stuff check out The Internet Archive at https://archive.org/search?query=edlippjr.com&tab=all
+
+In the beginning I embraced Microsoft's FrontPage software.  This was basically just Word with some extra stuff for managing a web site.  And man I got so comfy with FrontPage.  It was capable of some amazing stuff in a pretty easy manner.  It was looked down upon by real web developers like the folks using Dreamweaver etc.  But it got the job done and allowed me to create a huge site.  I'm hoping to get back to something along the lines of what I used to do.  We shall see.  :)
+
+So here's my first new post after getting all of this setup.  I have a collection of awesome tools allowing me to basically do this for free - Cloudflare, GitHub, and Netlify.  Pretty cool!  Claude has helped me work through the kinks and voila - EdLippJr.com is live once again.  Stay tuned.
