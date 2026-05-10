@@ -2,7 +2,8 @@ baseURL = "https://edlippjr.com/"
 locale = "en-us"
 title = "Ed Lipp Jr"
 theme = "PaperMod"
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 [params]
   mainSections = ["posts"]
